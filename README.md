@@ -2,7 +2,7 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>오늘 뭐봐? 지원</title>
+오늘 뭐봐? 지원
 </head>
 
 <body>
